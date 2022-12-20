@@ -25,14 +25,14 @@ Postępuj zgodnie z poniższą instrukcją:
 
 ## Instalacja wtyczki z pakietu zip
 
-![Logowanie](https://coalacode.com/hotdeals/_img/install-login.png)
+![Logowanie](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/install-login.png)
 
 3) Po zalogowaniu się przejdź do zakładki **Moduły > Moduły i usługi** (lub **Menedżer modułów** – w zależności od wersji sklepu).
 - kliknij **Dodaj nowy moduł** (widoczny w prawym górnym rogu), by wgrać paczkę plików, którą pobrałeś w poprzednim kroku;
 
-![Dodaj moduł](https://coalacode.com/hotdeals/_img/install-upload-button.png)
+![Dodaj moduł](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/install-upload-button.png)
 
-- kliknij **Załaduj moduł**
+- click **Upload a module** and upload module
 
 Gdy instalacja się zakończy, system przeniesie cię automatycznie do Konfiguracji modułu.
 
@@ -43,7 +43,7 @@ Gdy instalacja się zakończy, system przeniesie cię automatycznie do Konfigura
 
 1) Zaloguj się za pomocą konta administratora:
 
-![Logowanie](https://coalacode.com/hotdeals/_img/install-login.png)
+![Logowanie](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/install-login.png)
 
 
 ### Konfiguracja modułu
@@ -51,28 +51,42 @@ Gdy instalacja się zakończy, system przeniesie cię automatycznie do Konfigura
 ## Dostępne widgety
 
 ### Top
-![Top](https://coalacode.com/hotdeals/_img/widget-box.png)
+![Top](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/widget-top.png)
 Element jest wyświetlany na każdej podstronie u góry
 
 ### Box
-![Box](https://coalacode.com/hotdeals/_img/widget-box.png)
+![Box](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/widget-box.png)
 Element jest wyświetlany na liście w prawej lub lewej kolumnie listingu
 
 ### Grid
-![Box](https://coalacode.com/hotdeals/_img/widget-grid.png)
-Element jest wyświetlany na stronie głównej pod promocjami 
+![Grid](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/widget-grid.png)
+Element jest wyświetlany na stronie głównej
 
 ### Product
-![Box](https://coalacode.com/hotdeals/_img/widget-product.png)
+![Product](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/widget-product.png)
 Element jest wyświetlany w produkcie objętym promocją Hot Deals
 
 ### Widget
-![Box](https://coalacode.com/hotdeals/_img/widget-footer.png)
+![Widget](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/widget-footer.png)
 Element jest wyświetlany u dołu strony, dostępny po kliknięciu w przycisk
+
+
+## Dashboard
+![Dashboard](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/dashboard.png)
+
+W tej zakładce są wyświetlane następujące informacje:
+- ostatnie promocje
+- informacja o ilości promocji w formie liczbowej
+- informacja o uruchomionych elementach modułu
+
+## Deals
+![Deals](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/deals.png)
+
+W tej zakładce są wyświetlane wszystkie dostępne promocje
 
 ## Ustawienia
 
-![Settings](https://coalacode.com/hotdeals/_img/settings.png)
+![Settings](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/settings.png)
 
 Ustawienia widoczności głównych elementów modułu
 - wyświetlanie odpowiednich kategorii
@@ -82,14 +96,36 @@ Ustawienia widoczności głównych elementów modułu
 
 ## Dostosowanie wyglądu
 
+Dostosuj wygląd każdego widgetu
+
+![Customize](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/design.png)
+
+Wybierz szablon korzystając z gotowych szalonów
+
+![Customize theme](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/design-theme.png)
+**uwaga: klikając gotowy szablon elementy ustawień wyglądu zostaną zmienione**
+
+![Customize colors](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/design-theme-colors.png)
+
+## Add Deal
+Dodaj promocje w klikając Add Deal
+
+![Add deal](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/create-deal.png)
+
+Dodawanie promocji tworzy specjalną promocje w produkcie z określonymi ustawieniami
+
+![Product deal](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/product-prices.png)
+
+- w momencie usunięcia promocji, promocja hot deals jest również usuwana
+
 
 ## Aktualizacja
 Żeby dokonać aktualizacji – kliknij Upgrade.
 
-![Upgrade](https://coalacode.com/hotdeals/_img/upgrade.png)
+![Upgrade](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/upgrade.png)
 
 ## Odinstalowanie
 Żeby odinstalować moduł – wybierz **Odinstaluj**.
 
-![Odinstaluj](https://coalacode.com/hotdeals/_img/uninstall.png)
+![Odinstaluj](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/uninstall.png)
 # hotdeals
