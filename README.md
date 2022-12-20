@@ -37,17 +37,6 @@ Postępuj zgodnie z poniższą instrukcją:
 Gdy instalacja się zakończy, system przeniesie cię automatycznie do Konfiguracji modułu.
 
 
-## Konfiguracja
-
-### Konfiguracja sklepu
-
-1) Zaloguj się za pomocą konta administratora:
-
-![Logowanie](https://raw.githubusercontent.com/coalacode-com/hotdeals/main/img/install-login.png)
-
-
-### Konfiguracja modułu
-
 ## Dostępne widgety
 
 ### Top
